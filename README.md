@@ -13,7 +13,7 @@
 
 [![ReactJS](https://img.shields.io/badge/-React.JS-%10451d?style=flat&logo=react&logoColor=white&color=10451d)]()
 [![NodeJS](https://img.shields.io/badge/-Node.JS-%10451d?style=flat&logo=node.js&logoColor=white&color=10451d)]()
-[![ExpressJS](https://img.shields.io/badge/-Express.JS-%10451d?style=flat&logo=express.js&logoColor=white&color=10451d)]()
+[![ExpressJS](https://img.shields.io/badge/-Express.JS-%10451d?style=flat&logo=express&logoColor=white&color=10451d)]()
 
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white&color=10451d)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=MongoDB&logoColor=white&color=10451d)]()
