@@ -8,7 +8,8 @@
 ### A creative Software Engineering undergraduate with good problem solving skills. I’m proficient in using various tools and technologies and curious about upcoming technologies and eager to learn them.</p>
 
 ## Familiar Technologies
-[![Javaaaa](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
+[![Java](https://img.shields.io/badge/-Java-%2bbc8a?style=flat&logo=java&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%2bbc8a?style=flat&logo=javascript&logoColor=white)]()
 
 
 
