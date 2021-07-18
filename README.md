@@ -1,4 +1,4 @@
-# [![Yeshan Gunawardana header](./images/wallpaper.png)](#)
+# [![Yeshan Gunawardana header](./images/wallpaper1.png)](#)
 
 ### Hi there 👋 I'm Yeshan
 
