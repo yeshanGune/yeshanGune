@@ -11,7 +11,7 @@
 [![Java](https://img.shields.io/badge/-Java-%2bbc8a?style=flat&logo=java&logoColor=white&color=10451d)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%2bbc8a?style=flat&logo=javascript&logoColor=white&color=10451d)]()
 
-[![NodeJS](https://img.shields.io/badge/-Node.JS-%2343853D?style=flat&logo=node.js&logoColor=white&color=10451d)]()
+[![NodeJS](https://img.shields.io/badge/-Node.JS-%10451d?style=flat&logo=node.js&logoColor=white&color=10451d)]()
 
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white&color=10451d)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=MongoDB&logoColor=white&color=10451d)]()
