@@ -1,6 +1,6 @@
-### Hi there 👋 Yeshan
+### Hi there 👋 I'm Yeshan
 
-I’m Yeshan Gunawardana, a creative Software Engineering undergraduate with good problem solving skills. I’m proficient in using various tools and technologies and curious about upcoming technologies and eager to learn them. 
+### Creative Software Engineering undergraduate with good problem solving skills. I’m proficient in using various tools and technologies and curious about upcoming technologies and eager to learn them. 
 
 
 <!--
