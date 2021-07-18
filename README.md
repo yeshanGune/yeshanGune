@@ -1,6 +1,8 @@
 # [![Yeshan Gunawardana header](./images/wallpaper1.png)](#)
 
+<div style="display: 'flex', flex-direction: 'column', justify-content: 'center'">
 <a href="https://www.linkedin.com/in/yeshan-gunawardana-2535131a9/"><img height="30" src="./images/linkedin.png?raw=true"></a>
+</div>
 
 ### Hi there 👋 I'm Yeshan
 
