@@ -8,8 +8,7 @@
 ### A creative Software Engineering undergraduate with good problem solving skills. I’m proficient in using various tools and technologies and curious about upcoming technologies and eager to learn them.</p>
 
 ## Familiar Technologies
-[![C](https://img.shields.io/badge/-c-%2bbc8a?style=flat&logo=c&logoColor=white&color=10451d)]()
-[![C++](https://img.shields.io/badge/-c++-%2bbc8a?style=flat&logo=cpp&logoColor=white&color=10451d)]()
+[![C++](https://img.shields.io/badge/-c++-%2bbc8a?style=flat&logo=c++&logoColor=white&color=10451d)]()
 [![Java](https://img.shields.io/badge/-Java-%2bbc8a?style=flat&logo=java&logoColor=white&color=10451d)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%2bbc8a?style=flat&logo=javascript&logoColor=white&color=10451d)]()
 
