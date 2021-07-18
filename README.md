@@ -1,10 +1,10 @@
 ### Hi there 👋 Yeshan
 
+I’m Yeshan Gunawardana, a creative Software Engineering undergraduate with good problem solving skills. I’m proficient in using various tools and technologies and curious about upcoming technologies and eager to learn them. 
+
+
 <!--
-**yeshanGune/yeshanGune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
