@@ -1,13 +1,11 @@
 # [![Yeshan Gunawardana header](./images/wallpaper1.png)](#)
-
-<div style="display: 'flex', flex-direction: 'column', justify-content: 'center'">
+<p align='center'>
 <a href="https://www.linkedin.com/in/yeshan-gunawardana-2535131a9/"><img height="30" src="./images/linkedin.png?raw=true"></a>
-</div>
+</p>
 
 ### Hi there 👋 I'm Yeshan
 
-###<p> <span><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/298/man-technologist_1f468-200d-1f4bb.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/google/298/man-technologist_1f468-200d-1f4bb.png 2x" alt="Man Technologist on Google Android 12.0" width="30" height="30"></span>
-Creative Software Engineering undergraduate with good problem solving skills. I’m proficient in using various tools and technologies and curious about upcoming technologies and eager to learn them.</p>
+### Creative Software Engineering undergraduate with good problem solving skills. I’m proficient in using various tools and technologies and curious about upcoming technologies and eager to learn them.</p>
 
 <!--
 Here are some ideas to get you started:
