@@ -9,7 +9,7 @@
 
 ## Familiar Technologies
 [![Java](https://img.shields.io/badge/-Java-%2bbc8a?style=flat&logo=java&logoColor=white&color=10451d)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%2bbc8a?style=flat&logo=java&logoColor=white&color=10451d)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%2bbc8a?style=flat&logo=javascript&logoColor=white&color=10451d)]()
 
 
 <!--
