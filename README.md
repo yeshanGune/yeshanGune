@@ -8,12 +8,10 @@
 ### A creative Software Engineering undergraduate with good problem solving skills. I’m proficient in using various tools and technologies and curious about upcoming technologies and eager to learn them.</p>
 
 ## Familiar Technologies
-[![C++](https://img.shields.io/badge/-C++-%2bbc8a?style=flat&logo=cpp&logoColor=white&color=10451d)]()
 [![Java](https://img.shields.io/badge/-Java-%2bbc8a?style=flat&logo=java&logoColor=white&color=10451d)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%2bbc8a?style=flat&logo=javascript&logoColor=white&color=10451d)]()
 
-[![NodeJS](https://img.shields.io/badge/-Node.JS-%2343853D?style=flat&logo=node.js&logoColor=white&color=10451d)]()
-[![ExpressJS](https://img.shields.io/badge/-Express.JS-%2343853D?style=flat&logo=express.js&logoColor=white&color=10451d)]()
+[![NodeJS](https://img.shields.io/badge/-Node.JS-%2343853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white&color=10451d)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=MongoDB&logoColor=white&color=10451d)]()
