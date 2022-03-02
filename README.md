@@ -5,7 +5,7 @@
 
 ### Hi there 👋 I'm Yeshan
 
-### A creative Software Engineering undergraduate with good problem solving skills. I’m proficient in using various tools and technologies and curious about upcoming technologies and eager to learn them.</p>
+### A Software Engineering undergraduate</p>
 
 ## Familiar Technologies
 [![Java](https://img.shields.io/badge/-Java-%2bbc8a?style=flat&logo=java&logoColor=white&color=10451d)]()
